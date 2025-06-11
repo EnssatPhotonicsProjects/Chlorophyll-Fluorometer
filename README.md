@@ -15,6 +15,7 @@ This GitHub repository is intended to provide all necessary resources and instru
 
 - Measures chlorophyll a concentration in the range of [1-50] µg/L.
 - Low-cost (approximately $200), low-tech, and open-source design.
+- Super
 
 ## Functionality
 
